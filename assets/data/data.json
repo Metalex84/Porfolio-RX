@@ -1,0 +1,252 @@
+{
+    "title": "Alejandro Gonzalez Venegas - Desarrollador de aplicaciones multiplataforma y web",
+    "description": "Porfolio de Alejandro Gonzalez Venegas - Desarrollador de aplicaciones multiplataforma y web",
+    "image": "/alex.png",
+    "avatar": "/alex.png",
+    "name": "Alejandro Gonzalez Venegas",
+    "skill": "Desarrollador de aplicaciones multiplataforma y web",
+    "location": "Madrid, Spain",
+    "media": {
+        "email": "agonzalez.venegas@outlook.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/Metalex84",
+        "likedin": "https://linkedin.com/in/alejandro-gonzalez-venegas"
+    },
+    "about": "Tras mucho tiempo buscando mi sitio, he regresado al desarrollo de software. Donde otros se han 'reinventado profesionalmente', yo he 'vuelto al origen.'",
+    "technologies": [
+        {
+            "icon": "devicon-c-plain",
+            "name": "C"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
+            "icon": "devicon-selenium-plain",
+            "name": "Selenium"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
+        },
+        {
+            "icon": "devicon-flask-plain",
+            "name": "Flask"
+        },
+        {
+            "icon": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-microsoftsqlserver-plain",
+            "name": "Microsoft SQL Server"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+        },
+        {
+            "icon": "devicon-sqlite-plain",
+            "name": "SQLite"
+        },
+        {
+            "icon": "devicon-docker-plain",
+            "name": "Docker"
+        }
+    ],
+    "training": [
+        {
+            "icon": "notebook-pen",
+            "title": "CESUR",
+            "subtitle": "Grado Superior de Desarrollo de Aplicaciones Multiplataforma",
+            "description": "Especialidad Machine Learning.",
+            "date": "2022 - 2024",
+            "certificate": "https://www.cesurformacion.com/"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "CS50",
+            "subtitle": "Harvard Online",
+            "description": "Introduction to Computer Science.",
+            "date": "2023 - 2024",
+            "certificate": "https://courses.edx.org/certificates/bee730002f474fda92406d16c1fa14df"
+        },
+        {
+            "icon": "code",
+            "title": "Cursus 42",
+            "subtitle": "42 The Network",
+            "description": "42 Madrid - Fundacion Telefonica.",
+            "date": "2023 - Actualidad",
+            "certificate": "https://42madrid.com"
+        }
+    ],
+    "experience": [
+        {
+            "icon": "terminal",
+            "title": "HorecaRentable",
+            "subtitle": "Software Developer (Practicas)",
+            "description": "Reporte directo a Direccion. Desarrollo de aplicaciones para uso interno de la organizacion. Mantenimiento y vigilancia de la plataforma y el dominio corporativo (GetSpace).",
+            "date": "2024"
+        },
+        {
+            "icon": "person-standing",
+            "title": "Freelance",
+            "subtitle": "Copywriter / Traductor EN->ES/ Agente Comercial",
+            "description": "Redaccion de contenidos SEO vinculados a la estrategia de Inbound Marketing de los anunciantes. Traduccion de patentes de tecnologia. Prospeccion a puerta fria de nueva cartera de clientes.",
+            "date": "2020 - 2022"
+        },
+        {
+            "icon": "cloud",
+            "title": "Product Manager - Microsoft CSP",
+            "subtitle": "GTI Software & Networking (V-Valley)",
+            "description": "Asistencia en la ejecucion del plan anual de marketing. Propuesta de estrategias de captacion y fidelizacion de clientes. Elaboracion de reportes. Planificacion e implementacion de estrategias comerciales. Gestion del presupuesto asignado para las tareas de cada proyecto. Elaboracion de planes de marketing y publicidad en sintonia con la identidad de marca.",
+            "date": "2017 - 2019"
+        },
+        {
+            "icon": "printer",
+            "title": "Operador de compras - Redes, Seguridad e Impresion",
+            "subtitle": "Aryan Comunicaciones",
+            "description": "Gestion integral de pedidos de compra a proveedores. Volcado en Navision de las tarifas y promociones. Mantenimiento de referencias en el catalogo de productos. Soporte a Contabilidad de Proveedores.",
+            "date": "2008 - 2013 y 2016- 2017"
+        },
+        {
+            "icon": "network",
+            "title": "Product Manager - Redes, Impresion y Monitores",
+            "subtitle": "Activa 2mil",
+            "description": "Gestion de pedidos de compra a proveedores. Mantenimiento de niveles optimos de stock. Posicionamiento y lanzamiento de productos al canal. Negociacion de objetivos y forecasts de compra y venta. Implementacion de estrategias comerciales alineadas con los objetivos de la organizacion.",
+            "date": "2014 - 2015"
+        },
+        {
+            "icon": "presentation",
+            "title": "Soporte Postventa - pizarras digitales interactivas IQBoard",
+            "subtitle": "IQBoard Spain",
+            "description": "Soporte tecnico a distribudores y clientes finales sobre las pizarras digitales interactivas IQBoard. Control de stock de pizarras y recambios. Tramitacion de garantias. Pruebas de calidad y rendimiento bajo sistemas Windows y Linux.",
+            "date": "2013 - 2014"
+        },
+        {
+            "icon": "terminal",
+            "title": "Java Junior Consultant",
+            "subtitle": "Cap Gemini",
+            "description": "Participacion en un proyecto en Java / Weblogic para el Ministerio de Sanidad y Consumo.",
+            "date": "2007"
+        },
+        {
+            "icon": "terminal",
+            "title": "Programador Junior Java J2EE",
+            "subtitle": "Planet Media Studios",
+            "description": "Implementacion de codigo para aplicaciones web Java J2EE sobre Apache Tomcat.",
+            "date": "2006 - 2007"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "qr-code",
+            "title": "QR Generate",
+            "subtitle": "Web App",
+            "description": "Un sencillo generador de codigos QR online.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-flask-plain",
+                    "name": "flask"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                }
+            ],
+            "image": "/qrgen.png",
+            "url": "https://qr-generate-omcy.onrender.com",
+            "github": "https://github.com/Metalex84/qr_generate"
+        },
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn Automator",
+            "subtitle": "Web App",
+            "description": "Un bot scrapper que trata de imitar a Sales Navigator, aunque con ciertas limitaciones.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-flask-plain",
+                    "name": "flask"
+                },
+                {
+                    "icon": "devicon-selenium-plain",
+                    "name": "Selenium"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "icon": "devicon-sqlite-plain",
+                    "name": "SQLite"
+                }
+            ],
+            "image": "/linkaut.png",
+            "github": "https://github.com/Metalex84/linkedin_automator"
+        },
+        {
+            "icon": "square-user",
+            "title": "My CV",
+            "subtitle": "Static Web",
+            "description": "Lo que pretende ser esta misma pagina, pero con otra interfaz y hecha 'a mano' por mi.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                }
+            ],
+            "image": "/mycv.jpg",
+            "url": "https://metalex84.github.io/MYCV/",
+            "github": "https://github.com/Metalex84/MYCV"
+        }
+    ]
+}
