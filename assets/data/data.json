@@ -27,6 +27,10 @@
             "name": "Python"
         },
         {
+            "icon": "devicon-pyscript-plain",
+            "name": "Microservices"
+        },
+        {
             "icon": "devicon-selenium-plain",
             "name": "Selenium"
         },
