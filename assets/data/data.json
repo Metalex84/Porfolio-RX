@@ -23,16 +23,12 @@
             "name": "Java"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-hibernate-plain",
+            "name": "Hibernate"
         },
         {
-            "icon": "devicon-pyscript-plain",
-            "name": "Microservices"
-        },
-        {
-            "icon": "devicon-selenium-plain",
-            "name": "Selenium"
+            "icon": "devicon-spring-plain",
+            "name": "Spring Boot"
         },
         {
             "icon": "devicon-html5-plain",
@@ -43,8 +39,16 @@
             "name": "CSS"
         },
         {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
             "icon": "devicon-flask-plain",
             "name": "Flask"
+        },
+        {
+            "icon": "devicon-selenium-plain",
+            "name": "Selenium"
         },
         {
             "icon": "devicon-bootstrap-plain",
