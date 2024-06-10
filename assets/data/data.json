@@ -31,6 +31,14 @@
             "name": "Spring Boot"
         },
         {
+            "icon": "devicon-react-plain",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-postman-plain",
+            "name": "Postman"
+        },
+        {
             "icon": "devicon-html5-plain",
             "name": "HTML"
         },
