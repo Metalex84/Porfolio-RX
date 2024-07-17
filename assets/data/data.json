@@ -4,7 +4,7 @@
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Desarrollador de aplicaciones multiplataforma y web",
+    "skill": "Full Stack Developer",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
@@ -113,7 +113,7 @@
         {
             "icon": "terminal",
             "title": "HorecaRentable",
-            "subtitle": "Software Developer (Practicas)",
+            "subtitle": "Full Stack Developer (Practicas)",
             "description": "Reporte directo a Direccion. Desarrollo de aplicaciones para uso interno de la organizacion. Mantenimiento y vigilancia de la plataforma y el dominio corporativo (GetSpace).",
             "date": "2024"
         },
