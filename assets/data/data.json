@@ -4,7 +4,7 @@
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Desarrollador Full Stack",
+    "skill": "Desarrollador de aplicaciones multiplataforma y web",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
@@ -75,7 +75,7 @@
             "subtitle": "Grado Superior de Desarrollo de Aplicaciones Multiplataforma",
             "description": "Especialidad Machine Learning. Nota media 9.60",
             "date": "2022 - 2024",
-            "certificate": "/data/expediente.pdf"
+            "certificate": "/data/cesur_academic_alex.pdf"
         },
         {
             "icon": "graduation-cap",
@@ -97,10 +97,10 @@
     "experience": [
         {
             "icon": "terminal",
-            "title": "CTO // Full Stack Developer (Practicas)",
-            "subtitle": "Horeca Rentable",
-            "description": "Reportando directamente a Direccion, desarrolle integramente y desde cero una aplicacion web para uso interno del equipo de Ventas. Tambien me encargue del mantenimiento y la vigilancia de la plataforma y el dominio. Realice una migracion del correo electronico corporativo y contribui al posicionamiento SEO del sitio web",
-            "date": "Feb 2024 - Jun 2024"
+            "title": "HorecaRentable",
+            "subtitle": "Software Developer (Practicas)",
+            "description": "Reporte directo a Direccion. Desarrollo de aplicaciones para uso interno de la organizacion. Mantenimiento y vigilancia de la plataforma y el dominio corporativo (GetSpace).",
+            "date": "2024"
         },
         {
             "icon": "person-standing",
