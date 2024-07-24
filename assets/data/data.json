@@ -1,13 +1,14 @@
 {
-    "title": "Alejandro Gonzalez Venegas - Desarrollador de aplicaciones multiplataforma y web",
-    "description": "Porfolio de Alejandro Gonzalez Venegas - Desarrollador de aplicaciones multiplataforma y web",
+    "title": "Alejandro Gonzalez Venegas - Full Stack Developer",
+    "description": "Porfolio de Alejandro Gonzalez Venegas - Desarrollador Full Stack",
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Desarrollador de aplicaciones multiplataforma y web",
+    "skill": "Desarrollador Full Stack",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
+        "phone": "+34 670 299 391",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/Metalex84",
         "likedin": "https://linkedin.com/in/alejandro-gonzalez-venegas"
@@ -23,20 +24,12 @@
             "name": "Java"
         },
         {
-            "icon": "devicon-hibernate-plain",
-            "name": "Hibernate"
+            "icon": "devicon-python-plain",
+            "name": "Python"
         },
         {
-            "icon": "devicon-spring-plain",
-            "name": "Spring Boot"
-        },
-        {
-            "icon": "devicon-react-plain",
-            "name": "React"
-        },
-        {
-            "icon": "devicon-postman-plain",
-            "name": "Postman"
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
         },
         {
             "icon": "devicon-html5-plain",
@@ -47,20 +40,12 @@
             "name": "CSS"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
-        },
-        {
             "icon": "devicon-flask-plain",
             "name": "Flask"
         },
         {
             "icon": "devicon-selenium-plain",
             "name": "Selenium"
-        },
-        {
-            "icon": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
         },
         {
             "icon": "devicon-mysql-plain",
@@ -88,9 +73,9 @@
             "icon": "notebook-pen",
             "title": "CESUR",
             "subtitle": "Grado Superior de Desarrollo de Aplicaciones Multiplataforma",
-            "description": "Especialidad Machine Learning.",
+            "description": "Especialidad Machine Learning. Nota media 9.60",
             "date": "2022 - 2024",
-            "certificate": "https://www.cesurformacion.com/"
+            "certificate": "/data/expediente.pdf"
         },
         {
             "icon": "graduation-cap",
@@ -105,66 +90,59 @@
             "title": "Cursus 42",
             "subtitle": "42 The Network",
             "description": "42 Madrid - Fundacion Telefonica.",
-            "date": "2023 - Actualidad",
+            "date": "2023",
             "certificate": "https://42madrid.com"
         }
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "HorecaRentable",
-            "subtitle": "Software Developer (Practicas)",
-            "description": "Reporte directo a Direccion. Desarrollo de aplicaciones para uso interno de la organizacion. Mantenimiento y vigilancia de la plataforma y el dominio corporativo (GetSpace).",
-            "date": "2024"
+            "title": "CTO // Full Stack Developer (Practicas)",
+            "subtitle": "Horeca Rentable",
+            "description": "Reportando directamente a Direccion, desarrolle integramente y desde cero una aplicacion web para uso interno del equipo de Ventas. Tambien me encargue del mantenimiento y la vigilancia de la plataforma y el dominio. Realice una migracion del correo electronico corporativo y contribui al posicionamiento SEO del sitio web",
+            "date": "Feb 2024 - Jun 2024"
         },
         {
             "icon": "person-standing",
-            "title": "Freelance",
-            "subtitle": "Copywriter / Traductor EN->ES/ Agente Comercial",
-            "description": "Redaccion de contenidos SEO vinculados a la estrategia de Inbound Marketing de los anunciantes. Traduccion de patentes de tecnologia. Prospeccion a puerta fria de nueva cartera de clientes.",
-            "date": "2020 - 2022"
+            "title": "Copywriter Freelance",
+            "subtitle": "Publisuites",
+            "description": "Creé contenido con intención de posicionamiento SEO para anunciantes, abordando diversas temáticas: Tecnología, Finanzas, Legal, Veterinaria, Psicología, RRHH…",
+            "date": "Abr 2020 - Jun 2022"
         },
         {
             "icon": "cloud",
-            "title": "Product Manager - Microsoft CSP",
+            "title": "CSP Product Manager",
             "subtitle": "GTI Software & Networking (V-Valley)",
-            "description": "Asistencia en la ejecucion del plan anual de marketing. Propuesta de estrategias de captacion y fidelizacion de clientes. Elaboracion de reportes. Planificacion e implementacion de estrategias comerciales. Gestion del presupuesto asignado para las tareas de cada proyecto. Elaboracion de planes de marketing y publicidad en sintonia con la identidad de marca.",
-            "date": "2017 - 2019"
+            "description": "Reportando al director de division, contribui a la elaboracion y ejecucion del Plan de Marketing de Microsoft CSP, y lidere el lanzamiento de la linea de servicios de SKYKICK a todos los niveles (operaciones, comercial y soporte).",
+            "date": "Nov 2017 - Sep 2019"
         },
         {
             "icon": "printer",
             "title": "Operador de compras - Redes, Seguridad e Impresion",
             "subtitle": "Aryan Comunicaciones",
-            "description": "Gestion integral de pedidos de compra a proveedores. Volcado en Navision de las tarifas y promociones. Mantenimiento de referencias en el catalogo de productos. Soporte a Contabilidad de Proveedores.",
-            "date": "2008 - 2013 y 2016 - 2017"
+            "description": "Reportando a Operaciones, gestione los pedidos de compra en las lineas de negocio de Impresion, Redes y Seguridad (Brother, Fujitsu, Sun Microsystems, Supermicro, 3COM, Dell Sonicwall, TP-Link…). Vigile el cumplimiento de las fechas de entrega de los pedidos de compra, asi como los precios de las existencias; protegi y reporte los precios especiales, actualice las tarifas en el ERP (Navision), brinde soporte a Contabilidad de Proveedores y colabore con Product Management en la elaboracion de forecasts.",
+            "date": "Abr 2008 - Feb 2013 y Nov 2016 - Sep 2017"
         },
         {
             "icon": "network",
             "title": "Product Manager - Redes, Impresion y Monitores",
             "subtitle": "Activa 2mil",
-            "description": "Gestion de pedidos de compra a proveedores. Mantenimiento de niveles optimos de stock. Posicionamiento y lanzamiento de productos al canal. Negociacion de objetivos y forecasts de compra y venta. Implementacion de estrategias comerciales alineadas con los objetivos de la organizacion.",
-            "date": "2014 - 2015"
+            "description": "Reportando al director de Compras, gestione las líneas de negocio de Impresion, Monitores y Redes. Realice el aprovisionamiento de las existencias para satisfacer los forecast de ventas. Diseñe estrategias de ventas y generación de demanda. Negocie presupuestos trimestrales con los fabricantes (HP, Asus, Epson, Canon, LG,  AOC, Tenda…) para costear las acciones previstas.",
+            "date": "May 2014 - Dic 2015"
         },
         {
             "icon": "presentation",
             "title": "Soporte Postventa - pizarras digitales interactivas IQBoard",
-            "subtitle": "IQBoard Spain",
-            "description": "Soporte tecnico a distribudores y clientes finales sobre las pizarras digitales interactivas IQBoard. Control de stock de pizarras y recambios. Tramitacion de garantias. Pruebas de calidad y rendimiento bajo sistemas Windows y Linux.",
-            "date": "2013 - 2014"
-        },
-        {
-            "icon": "terminal",
-            "title": "Java Junior Consultant",
-            "subtitle": "Cap Gemini",
-            "description": "Participacion en un proyecto en Java / Weblogic para el Ministerio de Sanidad y Consumo.",
-            "date": "2007"
+            "subtitle": "TBD (IQBoard Spain)",
+            "description": "Reportando a Direccion, gestione la posventa de las pizarras digitales interactivas IQBoard en España. Lleve la cuenta del parque de pizarras y recambios (por numero de serie, distribuidor y cliente final) y me coordine con el almacen para mantener siempre cuadrado el stock. Me encargue de atender incidencias in situ, de diagnosticar y realizar reparaciones, y reportar errores sistematicos al fabricante.",
+            "date": "Mar 2013 - Abr 2014"
         },
         {
             "icon": "terminal",
             "title": "Programador Junior Java J2EE",
             "subtitle": "Planet Media Studios",
-            "description": "Implementacion de codigo para aplicaciones web Java J2EE sobre Apache Tomcat.",
-            "date": "2006 - 2007"
+            "description": "Reportando al director de Proyectos, participe en varios proyectos de desarrollo web en entorno Java J2EE, Apache Tomcat, TOAD (SQL) y Eclipse",
+            "date": "Nov 2006 - Feb 2007"
         }
     ],
     "projects": [
