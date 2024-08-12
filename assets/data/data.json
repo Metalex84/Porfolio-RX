@@ -67,15 +67,15 @@
             "name": "Docker"
         },
         {
-            "icon": "devicon-kotlin-plain-wordmark",
+            "icon": "devicon-kotlin-plain",
             "name": "Kotlin"
         },
         {
-            "icon": "devicon-jetpackcompose-plain-wordmark",
+            "icon": "devicon-jetpackcompose-plain",
             "name": "Jetpack Compose"
         },
         {
-            "icon": "devicon-androidstudio-plain-wordmark",
+            "icon": "devicon-androidstudio-plain",
             "name": "Android Studio"
         }
     ],
