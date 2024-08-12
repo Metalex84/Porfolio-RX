@@ -65,6 +65,18 @@
         {
             "icon": "devicon-docker-plain",
             "name": "Docker"
+        },
+        {
+            "icon": "devicon-kotlin-plain-wordmark",
+            "name": "Kotlin"
+        },
+        {
+            "icon": "devicon-jetpackcompose-plain-wordmark",
+            "name": "Jetpack Compose"
+        },
+        {
+            "icon": "devicon-androidstudio-plain-wordmark",
+            "name": "Android Studio"
         }
     ],
     "training": [
