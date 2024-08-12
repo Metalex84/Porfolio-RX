@@ -1,14 +1,14 @@
 {
-    "title": "Alejandro Gonzalez Venegas - Full Stack Developer",
-    "description": "Porfolio de Alejandro Gonzalez Venegas - Desarrollador Full Stack",
+    "title": "Alejandro Gonzalez Venegas - Web & Mobile Developer",
+    "description": "Porfolio de Alejandro Gonzalez Venegas - Web & Mobile Developer",
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Desarrollador Full Stack",
+    "skill": "Web & Mobile Developer",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
-        "cv": "/data/cv.pdf",
+        "cv": "/data/CV_EN_Alejandro_Gonzalez.pdf",
         "github": "https://github.com/Metalex84",
         "likedin": "https://linkedin.com/in/alejandro-gonzalez-venegas"
     },
