@@ -159,34 +159,29 @@
     "projects": [
         {
             "icon": "qr-code",
-            "title": "QR Generate",
-            "subtitle": "Web App",
-            "description": "Un sencillo generador de codigos QR online.",
+            "title": "Biblioteca de Libros Android",
+            "subtitle": "Android App",
+            "description": "Una sencilla aplicacion que recupera datos de libros y permite filtrarlos, consultar sus detalles y agregarlos a una lista de favoritos.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
                 },
                 {
-                    "icon": "devicon-flask-plain",
-                    "name": "flask"
+                    "icon": "devicon-jetpackcompose-plain",
+                    "name": "Jetpack Compose"
                 },
                 {
-                    "icon": "devicon-html5-plain",
-                    "name": "HTML"
+                    "icon": "devicon-androidstudio-plain",
+                    "name": "Android Studio"
                 },
                 {
                     "icon": "devicon-css3-plain",
                     "name": "CSS"
-                },
-                {
-                    "icon": "devicon-bootstrap-plain",
-                    "name": "Bootstrap"
                 }
             ],
-            "image": "/qrgen.png",
-            "url": "https://qr-generate-omcy.onrender.com",
-            "github": "https://github.com/Metalex84/qr_generate"
+            "image": "/booklist.png",
+            "github": "https://github.com/Metalex84/AndroidBooklist"
         },
         {
             "icon": "linkedin",
@@ -229,6 +224,37 @@
             ],
             "image": "/linkaut.png",
             "github": "https://github.com/Metalex84/linkedin_automator"
+        },
+        {
+            "icon": "qr-code",
+            "title": "QR Generate",
+            "subtitle": "Web App",
+            "description": "Un sencillo generador de codigos QR online.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-flask-plain",
+                    "name": "flask"
+                },
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "HTML"
+                },
+                {
+                    "icon": "devicon-css3-plain",
+                    "name": "CSS"
+                },
+                {
+                    "icon": "devicon-bootstrap-plain",
+                    "name": "Bootstrap"
+                }
+            ],
+            "image": "/qrgen.png",
+            "url": "https://qr-generate-omcy.onrender.com",
+            "github": "https://github.com/Metalex84/qr_generate"
         },
         {
             "icon": "square-user",
