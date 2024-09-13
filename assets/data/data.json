@@ -15,6 +15,26 @@
     "about": "Tras mucho tiempo buscando mi sitio, he regresado al desarrollo de software. Donde otros se han 'reinventado profesionalmente', yo he 'vuelto al origen.'",
     "technologies": [
         {
+            "icon": "devicon-kotlin-plain",
+            "name": "Kotlin"
+        },
+        {
+            "icon": "devicon-androidstudio-plain",
+            "name": "Android Studio"
+        },
+        {
+            "icon": "devicon-jetpackcompose-plain",
+            "name": "Jetpack Compose"
+        },
+        {
+            "icon": "devicon-swift-plain",
+            "name": "Swift"
+        },
+        {
+            "icon": "devicon-xcode-plain",
+            "name": "XCode"
+        },
+        {
             "icon": "devicon-c-plain",
             "name": "C"
         },
@@ -23,12 +43,16 @@
             "name": "Java"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-mysql-plain",
+            "name": "MySQL"
         },
         {
             "icon": "devicon-csharp-plain",
             "name": "C#"
+        },
+        {
+            "icon": "devicon-microsoftsqlserver-plain",
+            "name": "Microsoft SQL Server"
         },
         {
             "icon": "devicon-html5-plain",
@@ -39,6 +63,10 @@
             "name": "CSS"
         },
         {
+            "icon": "devicon-python-plain",
+            "name": "Python"
+        },
+        {
             "icon": "devicon-flask-plain",
             "name": "Flask"
         },
@@ -47,36 +75,8 @@
             "name": "Selenium"
         },
         {
-            "icon": "devicon-mysql-plain",
-            "name": "MySQL"
-        },
-        {
-            "icon": "devicon-microsoftsqlserver-plain",
-            "name": "Microsoft SQL Server"
-        },
-        {
-            "icon": "devicon-postgresql-plain",
-            "name": "PostgreSQL"
-        },
-        {
             "icon": "devicon-sqlite-plain",
             "name": "SQLite"
-        },
-        {
-            "icon": "devicon-docker-plain",
-            "name": "Docker"
-        },
-        {
-            "icon": "devicon-kotlin-plain",
-            "name": "Kotlin"
-        },
-        {
-            "icon": "devicon-jetpackcompose-plain",
-            "name": "Jetpack Compose"
-        },
-        {
-            "icon": "devicon-androidstudio-plain",
-            "name": "Android Studio"
         }
     ],
     "training": [
