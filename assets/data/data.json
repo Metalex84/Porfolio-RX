@@ -174,10 +174,6 @@
                 {
                     "icon": "devicon-androidstudio-plain",
                     "name": "Android Studio"
-                },
-                {
-                    "icon": "devicon-css3-plain",
-                    "name": "CSS"
                 }
             ],
             "image": "/booklist.png",
