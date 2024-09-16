@@ -82,11 +82,18 @@
     "training": [
         {
             "icon": "notebook-pen",
-            "title": "CESUR",
-            "subtitle": "Grado Superior de Desarrollo de Aplicaciones Multiplataforma",
-            "description": "Especialidad Machine Learning. Nota media 9.60",
+            "title": "Grado Superior de Desarrollo de Aplicaciones Multiplataforma",
+            "subtitle": "CESUR",
+            "description": "Nota media 9.60",
             "date": "2022 - 2024",
             "certificate": "/data/cesur_academic_alex.pdf"
+        },
+        {
+            "icon": "notebook-pen",
+            "title": "Ingeniero en Informatica",
+            "subtitle": "Universidad Autonoma de Madrid",
+            "description": "Sin finalizar",
+            "date": "2002 - 2006"
         },
         {
             "icon": "graduation-cap",
