@@ -165,7 +165,7 @@
     ],
     "projects": [
         {
-            "icon": "qr-code",
+            "icon": "library",
             "title": "Biblioteca de Libros Android",
             "subtitle": "Android App",
             "description": "Una sencilla aplicacion que recupera datos de libros y permite filtrarlos, consultar sus detalles y agregarlos a una lista de favoritos.",
