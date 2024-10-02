@@ -187,6 +187,28 @@
             "github": "https://github.com/Metalex84/AndroidBooklist"
         },
         {
+            "icon": "shopping-cart",
+            "title": "Bazar Online",
+            "subtitle": "Android App",
+            "description": "Una app que implementa un e-Commerce.",
+            "technologies": [
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-jetpackcompose-plain",
+                    "name": "Jetpack Compose"
+                },
+                {
+                    "icon": "devicon-androidstudio-plain",
+                    "name": "Android Studio"
+                }
+            ],
+            "image": "/androidbazar.png",
+            "github": "https://github.com/Metalex84/AndroidBazar"
+        },
+        {
             "icon": "linkedin",
             "title": "LinkedIn Automator",
             "subtitle": "Web App",
