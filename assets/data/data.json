@@ -165,7 +165,7 @@
     ],
     "projects": [
         {
-            "icon": "qr-code",
+            "icon": "library",
             "title": "Biblioteca de Libros Android",
             "subtitle": "Android App",
             "description": "Una sencilla aplicacion que recupera datos de libros y permite filtrarlos, consultar sus detalles y agregarlos a una lista de favoritos.",
@@ -185,6 +185,28 @@
             ],
             "image": "/booklist.png",
             "github": "https://github.com/Metalex84/AndroidBooklist"
+        },
+        {
+            "icon": "shopping-cart",
+            "title": "Bazar Online",
+            "subtitle": "Android App",
+            "description": "Una app que implementa un e-Commerce.",
+            "technologies": [
+                {
+                    "icon": "devicon-kotlin-plain",
+                    "name": "Kotlin"
+                },
+                {
+                    "icon": "devicon-jetpackcompose-plain",
+                    "name": "Jetpack Compose"
+                },
+                {
+                    "icon": "devicon-androidstudio-plain",
+                    "name": "Android Studio"
+                }
+            ],
+            "image": "/androidbazar.png",
+            "github": "https://github.com/Metalex84/AndroidBazar"
         },
         {
             "icon": "linkedin",
