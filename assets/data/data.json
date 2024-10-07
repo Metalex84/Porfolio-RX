@@ -303,6 +303,24 @@
             "image": "/mycv.jpg",
             "url": "https://metalex84.github.io/MYCV/",
             "github": "https://github.com/Metalex84/MYCV"
+        },
+        {
+            "icon": "terminal",
+            "title": "printf",
+            "subtitle": "Console library",
+            "description": "Mi propia implementación de la función 'printf' de C estándar.",
+            "technologies": [
+                {
+                    "icon": "devicon-c-plain",
+                    "name": "C"
+                },
+                {
+                    "icon": "devicon-linux-plain",
+                    "name": "Linux"
+                }
+            ],
+            "image": "/ft_printf.png",
+            "github": "https://github.com/Metalex84/ft_printf"
         }
     ]
 }
