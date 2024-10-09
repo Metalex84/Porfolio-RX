@@ -4,7 +4,7 @@
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Desarrollador de Aplicaciones - Mobile & Backend",
+    "skill": "Desarrollador Mobile & Backend",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
@@ -27,14 +27,6 @@
             "name": "Jetpack Compose"
         },
         {
-            "icon": "devicon-swift-plain",
-            "name": "Swift"
-        },
-        {
-            "icon": "devicon-xcode-plain",
-            "name": "XCode"
-        },
-        {
             "icon": "devicon-c-plain",
             "name": "C"
         },
@@ -43,16 +35,12 @@
             "name": "Java"
         },
         {
+            "icon": "devicon-sqlite-plain",
+            "name": "SQLite"
+        },
+        {
             "icon": "devicon-mysql-plain",
             "name": "MySQL"
-        },
-        {
-            "icon": "devicon-csharp-plain",
-            "name": "C#"
-        },
-        {
-            "icon": "devicon-microsoftsqlserver-plain",
-            "name": "Microsoft SQL Server"
         },
         {
             "icon": "devicon-html5-plain",
@@ -73,10 +61,6 @@
         {
             "icon": "devicon-selenium-plain",
             "name": "Selenium"
-        },
-        {
-            "icon": "devicon-sqlite-plain",
-            "name": "SQLite"
         }
     ],
     "training": [
@@ -117,7 +101,7 @@
             "icon": "terminal",
             "title": "Web Developer (Practicas)",
             "subtitle": "Horeca Rentable",
-            "description": "Reportando a Dirección, desarrollé íntegramente y desde cero una aplicación web para uso interno del equipo de Ventas (que también fue mi PFC). También desempeñé el rol de CTO, encargándome del mantenimiento de la plataforma y el dominio. Realicé una migración del correo electrónico corporativo y contribuí al posicionamiento SEO del sitio web.",
+            "description": "Reportando a Dirección, desarrollé íntegramente y desde cero una aplicación web para uso interno del equipo de Ventas. También desempeñé el rol de CTO, encargándome del mantenimiento de la plataforma y el dominio. Realicé una migración del correo electrónico corporativo y contribuí al posicionamiento SEO del sitio web.",
             "date": "Feb 2024 - Jun 2024"
         },
         {
