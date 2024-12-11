@@ -1,10 +1,10 @@
 {
-    "title": "Alejandro Gonzalez Venegas - Mobile & Backend Developer",
-    "description": "Porfolio de Alejandro Gonzalez Venegas - Mobile & Backend Developer",
+    "title": "Alejandro Gonzalez Venegas - Docente y Desarrollador",
+    "description": "Porfolio de Alejandro Gonzalez Venegas - Docente y Desarrollador",
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Desarrollador Mobile & Backend",
+    "skill": "Docente de FP - Desarrollador Mobile & Web",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
@@ -12,7 +12,7 @@
         "github": "https://github.com/Metalex84",
         "likedin": "https://linkedin.com/in/alejandro-gonzalez-venegas"
     },
-    "about": "Hace 15 años empecé a desarrollar software. Luego cambié de rol, y finalmente volví para seguir siendo desarrollador. Soy un gran comunicador, resolutivo, responsable, jugador de equipo, leal como compañero, asertivo como líder, eficaz como aprendiz y paciente como mentor. Estoy habituado a trabajar bajo presión y a tomar decisiones.",
+    "about": "Hace 15 años empecé a desarrollar software. Luego cambié de rol, y finalmente volví para seguir siendo desarrollador. Soy un gran comunicador, resolutivo, responsable, jugador de equipo, leal como compañero, asertivo como líder, eficaz como aprendiz y paciente como mentor. Estoy habituado a trabajar bajo presión y a tomar decisiones. Y, finalmente, encontré mi sitio en la docencia, mentorizando y guiando a otros en el arte de la programación",
     "technologies": [
         {
             "icon": "devicon-kotlin-plain",
@@ -106,11 +106,18 @@
     ],
     "experience": [
         {
+            "icon": "graduation-cap",
+            "title": "Docente de FP",
+            "subtitle": "Linkia FP",
+            "description": "Imparto clases de Desarrollo de Aplicaciones Multiplataforma y Administración de Sistemas Informáticos y en Red.",
+            "date": "Noviembre 2024 - Actualidad"
+        },
+        {
             "icon": "bird",
             "title": "Programador",
             "subtitle": "autotidacta",
             "description": "Estoy desarrollando pequeños proyectos para practicar lo aprendido en cursos y formación reglada: apps en Android nativo con Kotlin y Jetpack Compose, web-apps en Python sobre Flask y Django, páginas web con HTML5, CSS3, JavaScript y Bootstrap 5.3.3, y aplicaciones backend en C, C# o Java. Uso varios IDE en sistemas distintos (MacOS, Windows, Ubuntu, Debian…) para acostumbrarme a varios entornos de programación. Hago control de versiones con Git y utilizo GitHub para mostrar mi trabajo y mover mis proyectos entre plataformas.",
-            "date": "Jun 2024 - Actualidad"
+            "date": "Jun 2024 - Noviembre 2024"
         },
         {
             "icon": "terminal",
