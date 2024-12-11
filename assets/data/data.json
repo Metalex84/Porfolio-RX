@@ -89,6 +89,14 @@
         },
         {
             "icon": "code",
+            "title": "Introducción a la Programación en Python",
+            "subtitle": "BeJOB - IBM",
+            "description": "Fundamentos de internet. Fundamentos de programación. Fundamentos de Desarrollo web. Fundamentos de GIT y GITHUB. Conceptos básicos de Python. Programando en Python. Algoritmos. Django. Prueba con Python. Programación orientada a objetos en Python.",
+            "date": "2024",
+            "certificate": "/data/diploma_python.pdf"
+        },
+        {
+            "icon": "code",
             "title": "Cursus 42",
             "subtitle": "42 The Network",
             "description": "42 Madrid - Fundacion Telefonica.",
