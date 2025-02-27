@@ -115,7 +115,7 @@
         {
             "icon": "bird",
             "title": "Programador",
-            "subtitle": "autotidacta",
+            "subtitle": "Autodidacta",
             "description": "Estoy desarrollando pequeños proyectos para practicar lo aprendido en cursos y formación reglada: apps en Android nativo con Kotlin y Jetpack Compose, web-apps en Python sobre Flask y Django, páginas web con HTML5, CSS3, JavaScript y Bootstrap 5.3.3, y aplicaciones backend en C, C# o Java. Uso varios IDE en sistemas distintos (MacOS, Windows, Ubuntu, Debian…) para acostumbrarme a varios entornos de programación. Hago control de versiones con Git y utilizo GitHub para mostrar mi trabajo y mover mis proyectos entre plataformas.",
             "date": "Jun 2024 - Noviembre 2024"
         },
