@@ -4,7 +4,7 @@
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Docente de FP - Profesor y desarrollador de aplicaciones",
+    "skill": "Docente de FP - Formador y desarrollador de aplicaciones",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
@@ -12,7 +12,7 @@
         "github": "https://github.com/Metalex84",
         "likedin": "https://linkedin.com/in/alejandro-gonzalez-venegas"
     },
-    "about": "Esta la historia de un reskilling. Mis primeros pasos profesionales fueron como desarrollador de software y luego cambié de rol durante muchos años. Tras desempeñar otras funciones, volví para acabar lo que empecé. Lo logré, y entonces descubrí que la docencia era mi verdadera vocación.",
+    "about": "Esta la historia de un reskilling. Di mis primeros pasos profesionales como desarrollador, pero luego cambié de rol y me alejé durante muchos años. Volví para acabar lo que empecé, lo logré y descubrí mi verdadera vocación: la docencia.",
     "technologies": [
         {
             "icon": "devicon-kotlin-plain",
@@ -29,6 +29,10 @@
         {
             "icon": "devicon-c-plain",
             "name": "C"
+        },
+        {
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
         },
         {
             "icon": "devicon-java-plain",
@@ -102,6 +106,14 @@
             "description": "42 Madrid - Fundacion Telefonica.",
             "date": "2023",
             "certificate": "https://42madrid.com"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Habilitación para la docencia en grados A, B y C del Sistema de Formación Profesional [EN CURSO]",
+            "subtitle": "Impulso 06",
+            "description": "SSCE0110",
+            "date": "2025",
+            "certificate": ""
         }
     ],
     "experience": [
@@ -109,7 +121,7 @@
             "icon": "graduation-cap",
             "title": "Docente de FP",
             "subtitle": "Linkia FP",
-            "description": "Doy clases de desrrollo Mobile (Android), de Sistemas de Gestión (Odoo), de Interfaces Gráficas (C#, .NET), de Shell Scripting y de introducción a Amazon Web Services. También tutorizo proyectos de fin de ciclo y practicas en empresa.",
+            "description": "Doy clases de desarrollo Mobile (Kotlin - Android), de Sistemas de Gestión (Odoo), de Interfaces Gráficas (C#, .NET), de Shell Scripting y de introducción a Amazon Web Services. También tutorizo proyectos de fin de ciclo y practicas en empresa.",
             "date": "Noviembre 2024 - Actualidad"
         },
         {
