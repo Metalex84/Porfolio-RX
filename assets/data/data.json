@@ -1,18 +1,18 @@
 {
-    "title": "Alejandro Gonzalez Venegas - Docente y Desarrollador",
-    "description": "Porfolio de Alejandro Gonzalez Venegas - Docente y Desarrollador",
+    "title": "Alejandro Gonzalez Venegas - Especialista en IA y Big Data | Docente de Formación Profesional | Programador Python",
+    "description": "Porfolio deAlejandro Gonzalez Venegas - Especialista en IA y Big Data | Docente de Formación Profesional | Programador Python",
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Docente de FP - Formador y desarrollador de aplicaciones",
+    "skill": "Especialista en IA y Big Data | Docente de Formación Profesional | Programador Python",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
-        "cv": "/data/CV_ES_Alejandro_Gonzalez.pdf",
+        "cv": "/data/CV_Alejandro_Gonzalez_2026.pdf",
         "github": "https://github.com/Metalex84",
         "likedin": "https://linkedin.com/in/alejandro-gonzalez-venegas"
     },
-    "about": "Esta la historia de un reskilling. Di mis primeros pasos profesionales como desarrollador, pero luego cambié de rol y me alejé durante muchos años. Volví para acabar lo que empecé, lo logré y descubrí mi verdadera vocación: la docencia.",
+    "about": "Ingeniero de Software y Docente Técnico. Con un sólido bagaje de más de una década en gestión de productos tecnológicos (Product & Marketing Management), aporto una visión de negocio única enfocada en la creación de soluciones eficientes, escalables y orientadas al cliente. Oriento mi carrera hacia la IA y el Big Data.",
     "technologies": [
         {
             "icon": "devicon-kotlin-plain",
@@ -70,8 +70,16 @@
     "training": [
         {
             "icon": "notebook-pen",
+            "title": "Máster de especialización en Inteligencia Artificial y Big Data",
+            "subtitle": "CESUR Las Palmas de Gran Canaria",
+            "description": "En desarrollo",
+            "date": "2026 - 2027",
+            "certificate": "Pendiente"
+            },
+        {
+            "icon": "notebook-pen",
             "title": "Grado Superior de Desarrollo de Aplicaciones Multiplataforma",
-            "subtitle": "CESUR",
+            "subtitle": "CESUR Plaza Elíptica, Madrid",
             "description": "Nota media 9.60",
             "date": "2022 - 2024",
             "certificate": "/data/cesur_academic_alex.pdf"
