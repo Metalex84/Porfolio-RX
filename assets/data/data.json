@@ -1,10 +1,10 @@
 {
-    "title": "Alejandro Gonzalez Venegas - Especialista en IA y Big Data | Docente de Formación Profesional | Programador Python",
-    "description": "Porfolio deAlejandro Gonzalez Venegas - Especialista en IA y Big Data | Docente de Formación Profesional | Programador Python",
+    "title": "Alejandro Gonzalez Venegas - Docente tecnico | Programador | Especialista en IA y Big Data | Python, Java, Kotlin, C#, C",
+    "description": "Porfolio de Alejandro Gonzalez Venegas - Docente tecnico | Programador | Especialista en IA y Big Data | Python, Java, Kotlin, C#, C",
     "image": "/alex.png",
     "avatar": "/alex.png",
     "name": "Alejandro Gonzalez Venegas",
-    "skill": "Especialista en IA y Big Data | Docente de Formación Profesional | Programador Python",
+    "skill": " Docente tecnico | Programador | Especialista en IA y Big Data",
     "location": "Madrid, Spain",
     "media": {
         "email": "agonzalez.venegas@outlook.com",
@@ -12,7 +12,7 @@
         "github": "https://github.com/Metalex84",
         "likedin": "https://linkedin.com/in/alejandro-gonzalez-venegas"
     },
-    "about": "Ingeniero de Software y Docente Técnico. Con un sólido bagaje de más de una década en gestión de productos tecnológicos (Product & Marketing Management), aporto una visión de negocio única enfocada en la creación de soluciones eficientes, escalables y orientadas al cliente. Oriento mi carrera hacia la IA y el Big Data.",
+    "about": "Ingeniero de Software y Docente tecnico. Con un solido bagaje de mas de una decada en decada de productos tecnologicos, aporto una vision de negocio unica enfocada en la creacion de soluciones eficientes, escalables y orientadas al cliente. Oriento mi carrera hacia la IA y el Big Data.",
     "technologies": [
         {
             "icon": "devicon-kotlin-plain",
@@ -70,7 +70,15 @@
     "training": [
         {
             "icon": "notebook-pen",
-            "title": "Máster de especialización en Inteligencia Artificial y Big Data",
+            "title": "IFCD105 - Especialista en Big Data",
+            "subtitle": "Inkor Formacion",
+            "description": "En desarrollo",
+            "date": "2026",
+            "certificate": "Pendiente"
+            },
+            {
+            "icon": "notebook-pen",
+            "title": "Master de especializacion en Inteligencia Artificial y Big Data",
             "subtitle": "CESUR Las Palmas de Gran Canaria",
             "description": "En desarrollo",
             "date": "2026 - 2027",
@@ -79,7 +87,7 @@
         {
             "icon": "notebook-pen",
             "title": "Grado Superior de Desarrollo de Aplicaciones Multiplataforma",
-            "subtitle": "CESUR Plaza Elíptica, Madrid",
+            "subtitle": "CESUR Plaza Eliptica, Madrid",
             "description": "Nota media 9.60",
             "date": "2022 - 2024",
             "certificate": "/data/cesur_academic_alex.pdf"
@@ -101,9 +109,9 @@
         },
         {
             "icon": "code",
-            "title": "Introducción a la Programación en Python",
+            "title": "Introducción a la Programacion en Python",
             "subtitle": "BeJOB - IBM",
-            "description": "Fundamentos de internet. Fundamentos de programación. Fundamentos de Desarrollo web. Fundamentos de GIT y GITHUB. Conceptos básicos de Python. Programando en Python. Algoritmos. Django. Prueba con Python. Programación orientada a objetos en Python.",
+            "description": "Fundamentos de internet. Fundamentos de programacion. Fundamentos de Desarrollo web. Fundamentos de GIT y GITHUB. Conceptos básicos de Python. Programando en Python. Algoritmos. Django. Prueba con Python. programacion orientada a objetos en Python.",
             "date": "2024",
             "certificate": "/data/diploma_python.pdf"
         },
@@ -117,11 +125,11 @@
         },
         {
             "icon": "graduation-cap",
-            "title": "Habilitación para la docencia en grados A, B y C del Sistema de Formación Profesional [EN CURSO]",
+            "title": "Habilitación para la docencia en grados A, B y C del Sistema de Formacion Profesional",
             "subtitle": "Impulso 06",
             "description": "SSCE0110",
             "date": "2025",
-            "certificate": ""
+            "certificate": "/data/SSCE0110.pdf"
         }
     ],
     "experience": [
@@ -129,15 +137,15 @@
             "icon": "graduation-cap",
             "title": "Docente de FP",
             "subtitle": "Linkia FP",
-            "description": "Doy clases de desarrollo Mobile (Kotlin - Android), de Sistemas de Gestión (Odoo), de Interfaces Gráficas (C#, .NET), de Shell Scripting y de introducción a Amazon Web Services. También tutorizo proyectos de fin de ciclo y practicas en empresa.",
-            "date": "Noviembre 2024 - Actualidad"
+            "description": "Docencia de desarrollo Mobile (Kotlin - Android), de Sistemas de decada (Odoo), de Interfaces Gráficas (C#, .NET), de Shell Scripting, de introducción a Amazon Web Services y de programacion avanzada en Java (Sockets, Threads, Hibernate). También tutorizo proyectos de fin de ciclo y practicas en empresa.",
+            "date": "Noviembre 2024 - Junio 2026"
         },
         {
             "icon": "bird",
             "title": "Programador",
             "subtitle": "Autodidacta",
-            "description": "Estoy desarrollando pequeños proyectos para practicar lo aprendido en cursos y formación reglada: apps en Android nativo con Kotlin y Jetpack Compose, web-apps en Python sobre Flask y Django, páginas web con HTML5, CSS3, JavaScript y Bootstrap 5.3.3, y aplicaciones backend en C, C# o Java. Uso varios IDE en sistemas distintos (MacOS, Windows, Ubuntu, Debian…) para acostumbrarme a varios entornos de programación. Hago control de versiones con Git y utilizo GitHub para mostrar mi trabajo y mover mis proyectos entre plataformas.",
-            "date": "Jun 2024 - Noviembre 2024"
+            "description": "Desarrollo pequeños proyectos y prototipos para practicar lo aprendido en cursos y Formacion reglada y me apoyo en ellos para mi labor docente.",
+            "date": "Jun 2024 - Actualidad"
         },
         {
             "icon": "terminal",
@@ -191,6 +199,32 @@
     ],
     "projects": [
         {
+            "icon": "image",
+            "title": "PhotoBooth con Inteligencia Artificial",
+            "subtitle": "AI Model - Web App",
+            "description": "Un modelo de Machine Learning entrenado para identificar patrones en las fotos proporcionadas por el usuario.",
+            "technologies": [
+                {
+                    "icon": "devicon-google-plain",
+                    "name": "Google Teachable Machine"
+                },
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                },
+                {
+                    "icon": "devicon-keras-plain",
+                    "name": "Keras"
+                },
+                {
+                    "icon": "devicon-flask-original",
+                    "name": "Flask"
+                }
+            ],
+            "image": "/AI_PhotoBooth.png",
+            "github": "https://github.com/Metalex84/PhotoBooth_Keras_Teachable"
+        },
+        {
             "icon": "library",
             "title": "Biblioteca de Libros Android",
             "subtitle": "Android App",
@@ -235,7 +269,7 @@
             "github": "https://github.com/Metalex84/AndroidBazar"
         },
         {
-            "icon": "linkedin",
+            "icon": "link",
             "title": "LinkedIn Automator",
             "subtitle": "Web App",
             "description": "Un bot scrapper que trata de imitar a Sales Navigator, aunque con ciertas limitaciones.",
