@@ -124,6 +124,14 @@
             "certificate": "https://42madrid.com"
         },
         {
+            "icon": "notebook-pen",
+            "title": "Business Intelligence",
+            "subtitle": "Femxa Formacion",
+            "description": "ADGG102PO",
+            "date": "2020",
+            "certificate": "/data/ADGG102PO.pdf"
+        },
+        {
             "icon": "graduation-cap",
             "title": "Habilitación para la docencia en grados A, B y C del Sistema de Formacion Profesional",
             "subtitle": "Impulso 06",
